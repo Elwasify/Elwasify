@@ -1,66 +1,119 @@
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/fan-1.gif" width="300" alt="" />
+  <img
+    src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/fan-1.gif"
+    width="280"
+    alt="Welcome Animation"
+  />
 </p>
 
+<!-- Profile Banner -->
 <p align="center">
-  <img src="./banner.svg" alt="Abdallah Elwasify - Front-End Developer" width="100%" />
+  <img
+    src="./banner.svg"
+    width="100%"
+    alt="Abdallah Elwasify - Front-End Developer"
+  />
 </p>
 
+<br>
 
+## 🧑‍💻 About Me
 
-<img src="./divider.svg" width="100%" alt="" />
+- 🎓 Fourth-year student at the Faculty of Computers and Information, Arish University.
+- 💻 Passionate about building modern, responsive, and user-friendly web experiences.
+- ⚛️ Focused on React and modern Front-End development.
+- 🌱 Currently learning Node.js, Express, and MongoDB to become a MERN Stack Developer.
+- 🚀 Always learning, experimenting, and building new things.
 
-## 🧑‍💻 About me
-
-* 🎓 Fourth-year student at the Faculty of Computers and Information, Arish University
-* 💻 I enjoy building fast, user-friendly interfaces with clean, reusable components
-* 🌱 Currently learning back-end development with Node.js, Express and MongoDB to become a MERN Stack developer
-
-<img src="./divider.svg" width="100%" alt="" />
+<br>
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-elwasify/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Abdallahwasify)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdallahelwasify_/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallahelwasify0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elwasify)
+<p>
+  <a href="https://www.linkedin.com/in/abdallah-elwasify/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Abdallahwasify">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/abdallahelwasify_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:abdallahelwasify0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Elwasify">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<img src="./divider.svg" width="100%" alt="" />
+<br>
 
 ## 🛠️ Tech Stack
 
+**Frontend & Languages**
+
 <p>
-  <img src="https://skillicons.dev/icons?theme=dark&i=html,css,js,ts,react,vite,tailwind,bootstrap,nodejs,express,mongodb,python" alt="Languages and frameworks" />
+  <img
+    src="https://skillicons.dev/icons?theme=dark&i=html,css,js,ts,react,vite,tailwind,bootstrap,python"
+    alt="Frontend Technologies"
+  />
 </p>
+
+**Currently Learning**
+
 <p>
-  <img src="https://skillicons.dev/icons?theme=dark&i=git,github,figma,vscode,vercel,postman,npm" alt="Tools" />
+  <img
+    src="https://skillicons.dev/icons?theme=dark&i=nodejs,express,mongodb"
+    alt="Currently Learning"
+  />
 </p>
 
-<img src="./divider.svg" width="100%" alt="" />
+**Tools & Platforms**
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Elwasify&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="My GitHub Statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elwasify&layout=compact&theme=radical&langs_count=8" alt="My Programming Languages" />
+<p>
+  <img
+    src="https://skillicons.dev/icons?theme=dark&i=git,github,figma,vscode,vercel,postman,npm"
+    alt="Development Tools"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elwasify&theme=github_dark" alt="Top Languages by Repo" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Elwasify&theme=github_dark" alt="Top Languages by Commit" width="49%" />
+<br>
+
+## 💻 Most Used Languages
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elwasify&layout=compact&theme=radical&langs_count=8&hide_border=true"
+    alt="Most Used Programming Languages"
+  />
 </p>
 
-<img src="./divider.svg" width="100%" alt="" />
+<br>
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Elwasify&theme=dark&hide_border=false" alt="GitHub Streak" />
+<p>
+  <img
+    src="https://streak-stats.demolab.com?user=Elwasify&theme=radical&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
-<img src="./divider.svg" width="100%" alt="" />
+<br>
+
+<!-- Footer -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+    width="100%"
+    alt=""
+  />
+</p>
 
 <p align="center">
-  Thanks for visiting. Feel free to explore my repositories. ⭐
+  <b>Thanks for visiting my profile! ⭐</b>
+  <br>
+  Feel free to explore my repositories and connect with me.
 </p>

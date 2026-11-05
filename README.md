@@ -6,9 +6,7 @@
   <img src="./banner.svg" alt="Abdallah Elwasify - Front-End Developer" width="100%" />
 </p>
 
-<p align="center">
-  Front-End Developer who builds fast, responsive and maintainable web applications with React and Vite.
-</p>
+
 
 <img src="./divider.svg" width="100%" alt="" />
 

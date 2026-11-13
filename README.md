@@ -90,17 +90,19 @@
 
 <div align="center">
   <a href="https://github.com/Elwasify">
-    <img height="165" width="49%" src="https://github-stats-extended.vercel.app/api?username=Elwasify&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=Elwasify&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Elwasify">
-    <img height="165" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Elwasify&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Elwasify&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
   </a>
 </div>
 
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Elwasify&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Elwasify">
+    <img src="https://streak-stats.demolab.com/?user=Elwasify&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">
